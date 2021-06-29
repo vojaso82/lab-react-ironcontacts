@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.sort-buttons{
+background-color: white;
+padding:3px 15px;
+}
+
+table{
+  width:55%;
+}
+
+.delete{
+background-color: white;
+padding:3px 10px;
+}
+
+.action{
+  text-align: left;
+}
